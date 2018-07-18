@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://static1.squarespace.com/static/598af623f5e23155afc9affe/t/59a003ccf9a61e5b1771533c/1503658960489/hvit+trekant.jpg?format=1500w");
+}
+
+
+.container {
+    background-color: #f8f9fa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.heading {
+    color: #6EA8A4;
+    padding-left: 12px;
+    font-size: 25pt;
+}
+
+.footer {
+    border-top: 1px solid black;
+    text-align: center;
+}
+
